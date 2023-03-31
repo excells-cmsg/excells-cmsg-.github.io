@@ -2,8 +2,6 @@
 
 自然科学研究機構 生命創成探究センター 細胞シミュレーショングループ
 
-Saluton!
-
 ## Members
 
 Visiting Associate Professor
