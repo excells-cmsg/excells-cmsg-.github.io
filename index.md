@@ -12,6 +12,10 @@ Associate Professor
 
 - [WATABE, Masaki 渡部匡己](https://orcid.org/0000-0002-9683-7635)
 
+## Contact us
+
+kaizu at riken.jp
+
 ## Access
 
 20 min. walk from Meitetsu line ‘Higashi Okazaki’ station.
